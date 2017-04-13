@@ -1,55 +1,72 @@
 name: クック ぱど見
 resume:
   backgrounds:
-    - name: ◯☓大学大学院 △□研究科 ▼●専攻 N年生
-      lab: XXXX研究室所属
-      thesis_theme: KKKKにおけるAAAAを利用したVVVV効果の検証
+    - name: 筑波大学大学院 システム情報工学研究科 コンピュータサイエンス専攻 M2年生
+      lab: ビジュアルサイエンス研究室所属
+      thesis_theme: 共感における機械学習を利用した、ネット売店の色推薦システム
       year: 2018年3月卒業見込み
-    - name: ◯☓大学 △□学部 N年生
-      lab: XXXX研究室所属
-      thesis_theme: ZZZZにおけるYYYYを利用したQQQQ効果の検証
-      year: 2016年3月卒業
-    - name: XYZ高校
-      year: 2012年3月卒業
+    - name: 南京工業大学大学 浦江学部 情報管理と情報システム学科
+      thesis_theme: 移動支払いの技術研究
+      year: 2014年6月卒業
+    - name: 南京航空航天大学付属高校
+      year: 2010年6月卒業
 social_accounts:
   github: __padomi__
 engineering:
   why_start_programming: |
-    高校生の時に友人とゲームのコミュニティーサイトを作ることになり、ユーザ登録などの機能を実装する上で勉強したのがきっかけ。
+    1年かけて、子供向け防犯システムをチーム開発しました。そのシステムはハードとソフト二つ部分あります。
   interesting_points: |
-    自分で作ったものが動くのを見るのが楽しい。
+    自分が使いたい、さらに一般な人も使いたい、システムまたはサービスを開発したい。
   skill_levels:
     elements:
+      - element: C++
+        level: 2
+        years: 1
+        explanation: |
+          授業で習った。
       - element: C言語
         level: 1
         years: 1
         explanation: |
-          授業で習った
-      - element: Java
+          授業で習った、大学院入学試験を受験したことがあります。
+      - element: android
         level: 1
         years: 1
         explanation: |
-          授業で習った
-      - element: Ruby
-        level: 3
-        years: 2
+          授業で習った、実際に開発したあります。
+      - element: Java
+        level: 2
+        years: 1
         explanation: |
-          趣味で作るプロダクトはすべてRubyで書いています
+          授業で習った、実際に開発したあります。
+      - element: HTML
+        level: 1
+        years: 1
+        explanation: |
+          趣味で作るプロダクトはHTMLで書いています。
+       - element: CSS
+        level: 1
+        years: 1
+        explanation: |
+          趣味で作るプロダクトはCSSで書いています。
+      - element: javascript
+        level: 1
+        years: 1
+        explanation: |
+          趣味で作るプロダクトはjavascriptで書いています。
+          
     favorite_language: |
-      Rubyが一番経験が長いので得意です
+      JAVAが一番経験が長いので得意です
     pr: |
-      新しいことには積極的に挑戦していて、いまはAWSでインフラ周りの勉強をしています。
+      目標を決めったら、必ず完成する人間です。
 parttime_experiences:
-  - company: Z社
+  - company: 
     detail: |
-      新規サービスのAndroidアプリ化を担当中
+      
 internship_experiences:
-  - company: クックパッド
+  - company: 
     detail: |
-      会員事業部でユーザの行動データの分析
-  - company: R社
-    detail: |
-      新規事業開発部署でAndroidアプリの開発
+
 what_you_want_to_achieve_in_cookpad: |
   おばあちゃんの煮物が好きなのでそういうのを世界中の人で共有できるようにしたいです。
 enthusiasm_for_engineering: |
